@@ -1,0 +1,1 @@
+Get-ADUser yaelso-test -Properties * | Select name, department, title

@@ -1,0 +1,3 @@
+This command will find all users that have the word robert in the name. Just change robert to the word you want to search for.
+
+get-Aduser -Filter {name -like "*robert*"}

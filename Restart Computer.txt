@@ -1,0 +1,2 @@
+Restart-Computer wk-dalitsol -Force
+Test-Connection wk-dalitsol -Count 50

@@ -1,0 +1,1 @@
+Add-ADGroupMember yaelso-ps-test -Members yaelso

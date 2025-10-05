@@ -1,0 +1,4 @@
+Enter-PSSession wk-dalitsol
+
+
+Exit-PSSession
