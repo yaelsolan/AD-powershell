@@ -34,11 +34,3 @@ The content is based on real operational tasks such as user management, permissi
 - Replace environment-specific values (usernames, OUs, servers) before running in production.
 - Use `-WhatIf` and test on non-production systems when applicable.
 
-## ✅ Next Steps (Optional)
-- Organize by folders (e.g. Users / Groups / Queries / Automation).
-- Convert `.txt` files into `.ps1` where appropriate.
-- Add examples and parameters in future updates.
-
----
-
-Feel free to expand this repo over time as you build more AD automation tools.
